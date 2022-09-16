@@ -1,0 +1,40 @@
+body {
+background-color: #EFFFFD;
+margin: 0;
+}
+
+.main-container {
+  background-color: white;
+  height: 1400px;
+  width: 85%;
+  border-radius: 25px;
+  margin-left: 95px;
+  margin-top: 0;
+}
+.picture {
+  height: 850px;
+  width: 93%;
+  margin-top: 40px;
+  margin-left: 40px;
+  border-radius: 25px;
+}
+
+h2 {
+  font-size: 50px;
+  width: 50%;
+  margin: auto;
+  padding-top: 40px;
+  text-align: center;
+}
+p {
+  font-size: 40px;
+  text-align: center;
+  margin: auto;
+  width: 55%;
+  padding-top: 40px;
+ color: grey;
+}
+h3 {
+  text-align: right;
+  padding-top: 70px
+}
